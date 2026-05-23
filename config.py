@@ -1,0 +1,9 @@
+# 微信公众号配置
+WECHAT_TOKEN = "your_wechat_token_here"
+
+# DeepSeek API配置
+DEEPSEEK_API_KEY = "your_deepseek_api_key_here"
+
+# 服务器配置
+HOST = "0.0.0.0"
+PORT = 8000
